@@ -1,4 +1,4 @@
-pkg_name=sample-node-app
+pkg_name=samplenodeapp
 pkg_origin=jshvrsn
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
